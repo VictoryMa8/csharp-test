@@ -1,0 +1,14 @@
+/Users/victoryma/2025_Repositories/csharp-test/bin/Debug/net9.0/csharp-test
+/Users/victoryma/2025_Repositories/csharp-test/bin/Debug/net9.0/csharp-test.deps.json
+/Users/victoryma/2025_Repositories/csharp-test/bin/Debug/net9.0/csharp-test.runtimeconfig.json
+/Users/victoryma/2025_Repositories/csharp-test/bin/Debug/net9.0/csharp-test.dll
+/Users/victoryma/2025_Repositories/csharp-test/bin/Debug/net9.0/csharp-test.pdb
+/Users/victoryma/2025_Repositories/csharp-test/obj/Debug/net9.0/csharp-test.GeneratedMSBuildEditorConfig.editorconfig
+/Users/victoryma/2025_Repositories/csharp-test/obj/Debug/net9.0/csharp-test.AssemblyInfoInputs.cache
+/Users/victoryma/2025_Repositories/csharp-test/obj/Debug/net9.0/csharp-test.AssemblyInfo.cs
+/Users/victoryma/2025_Repositories/csharp-test/obj/Debug/net9.0/csharp-test.csproj.CoreCompileInputs.cache
+/Users/victoryma/2025_Repositories/csharp-test/obj/Debug/net9.0/csharp-test.dll
+/Users/victoryma/2025_Repositories/csharp-test/obj/Debug/net9.0/refint/csharp-test.dll
+/Users/victoryma/2025_Repositories/csharp-test/obj/Debug/net9.0/csharp-test.pdb
+/Users/victoryma/2025_Repositories/csharp-test/obj/Debug/net9.0/csharp-test.genruntimeconfig.cache
+/Users/victoryma/2025_Repositories/csharp-test/obj/Debug/net9.0/ref/csharp-test.dll
