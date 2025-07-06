@@ -12,3 +12,4 @@
 /Users/victoryma/2025_Repositories/csharp-test/obj/Debug/net9.0/csharp-test.pdb
 /Users/victoryma/2025_Repositories/csharp-test/obj/Debug/net9.0/csharp-test.genruntimeconfig.cache
 /Users/victoryma/2025_Repositories/csharp-test/obj/Debug/net9.0/ref/csharp-test.dll
+/Users/victoryma/2025_Repositories/csharp-test/obj/Debug/net9.0/csharp-test.sourcelink.json
