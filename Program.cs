@@ -1,43 +1,25 @@
-﻿Random dice = new Random();
-int roll1 = dice.Next();
-int roll2 = dice.Next(101);
-int roll3 = dice.Next(50, 101);
+﻿// initialize variables - graded assignments 
+int currentAssignments = 5;
 
-Console.WriteLine($"First roll: {roll1}");
-Console.WriteLine($"Second roll: {roll2}");
-Console.WriteLine($"Third roll: {roll3}");
+int[] sophiaScores = new int[] { 90, 86, 87, 98, 100 };
+int[] andrewScores = new int[] { 92, 89, 81, 96, 90 };
+int[] emmaScores = new int[] { 90, 85, 87, 98, 68 };
+int[] loganScores = new int[] { 90, 95, 87, 88, 96 };
 
-int firstValue = 500;
-int secondValue = 600;
-int largerValue = Math.Max(firstValue, secondValue);
+int sophiaSum = 0;
 
-Console.WriteLine(largerValue);
+decimal sophiaScore;
 
-Random random = new Random();
-int daysUntilExpiration = random.Next(12);
-int discountPercentage;
-
-if (daysUntilExpiration == 0) 
+foreach (int score in sophiaScores)
 {
-    Console.WriteLine("Your subscription has expired.");
-}
-if (daysUntilExpiration == 1)
-{
-    discountPercentage = 20;
-    Console.WriteLine($"Your subscription expires in {daysUntilExpiration} days. \n Renew now and save {discountPercentage} %!");
-}
-if (daysUntilExpiration <= 5)
-{
-    discountPercentage = 10;
-    Console.WriteLine($"Your subscription expires in {daysUntilExpiration} days. \n Renew now and save { discountPercentage }%!");
-}
-if (daysUntilExpiration <= 10)
-{
-    Console.WriteLine("Your subscription will expire soon. Renew now!");
+    // add the exam score to the sum
+    sophiaSum += score;
 }
 
-string[] fraudulentOrderIDs = ["A123", "B456", "C789"];
+sophiaScore = (decimal)sophiaSum / currentAssignments;
 
-Console.WriteLine($"First: {fraudulentOrderIDs[0]}");
-Console.WriteLine($"Second: {fraudulentOrderIDs[1]}");
-Console.WriteLine($"Third: {fraudulentOrderIDs[2]}");
+Console.WriteLine("Student\t\tGrade\n");
+Console.WriteLine("Sophia:\t\t" + sophiaScore + "\tA-");
+
+Console.WriteLine("Press the Enter key to continue");
+Console.ReadLine();
