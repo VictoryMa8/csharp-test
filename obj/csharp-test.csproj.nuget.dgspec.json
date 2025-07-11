@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/victoryma/2025_Repositories/csharp-test/csharp-test.csproj": {}
+    "/Users/victoryma/Repositories/csharp-test/csharp-test.csproj": {}
   },
   "projects": {
-    "/Users/victoryma/2025_Repositories/csharp-test/csharp-test.csproj": {
+    "/Users/victoryma/Repositories/csharp-test/csharp-test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/victoryma/2025_Repositories/csharp-test/csharp-test.csproj",
+        "projectUniqueName": "/Users/victoryma/Repositories/csharp-test/csharp-test.csproj",
         "projectName": "csharp-test",
-        "projectPath": "/Users/victoryma/2025_Repositories/csharp-test/csharp-test.csproj",
+        "projectPath": "/Users/victoryma/Repositories/csharp-test/csharp-test.csproj",
         "packagesPath": "/Users/victoryma/.nuget/packages/",
-        "outputPath": "/Users/victoryma/2025_Repositories/csharp-test/obj/",
+        "outputPath": "/Users/victoryma/Repositories/csharp-test/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/victoryma/.nuget/NuGet/NuGet.Config"
