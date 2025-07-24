@@ -7,3 +7,5 @@ do
     validNumber = int.TryParse(Console.ReadLine(), out number);
     Console.WriteLine($"Number: {number}, valid: {validNumber}");
 } while (validNumber == false);
+
+Console.WriteLine("Hehehe...");
